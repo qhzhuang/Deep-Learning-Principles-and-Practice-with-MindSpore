@@ -1,6 +1,6 @@
 <div align=center>
   <h1>Deep-Learning-Principles-and-Practice-with-MindSpore</h1>
-  <p><a href="./README_ZH.md">查看中文</a></p>
+  <p><a href="./README_zh.md">查看中文</a></p>
 </div>
 
 This course is centered on "AI for Beginners with Zero Foundation", combining theory and practice to guide learners from foundational theory to model training and deployment. It helps students systematically master the core technologies and practical applications of artificial intelligence. Upon completing the series, you will be capable of independently developing and applying lightweight AI models, gaining a comprehensive understanding of the entire knowledge chain from algorithm theory to application development.
