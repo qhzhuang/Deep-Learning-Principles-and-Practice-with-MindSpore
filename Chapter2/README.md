@@ -1,18 +1,18 @@
 ## minGPT开发训练推理全流程实践
 
-以minGPT项目为例, 介绍Transformer网络的结构、混合精度训练、语言模型解码原理。
+本节以minGPT项目为例, 介绍Transformer网络的结构、混合精度训练、语言模型解码原理。
 
-### 实验链接
+### 课程材料
 
-[代码仓链接](https://github.com/mindspore-lab/orange-pi-mindspore/tree/master/Online/training/02-minGPT)
+- [代码](https://github.com/mindspore-lab/orange-pi-mindspore/tree/dev/courses/02_mingpt)
+- [PPT](./minGPT训推.pptx)
+- [视频](https://www.hiascend.com/developer/courses/detail/1925362775376744449)(第6-10章)
+
 
 ### 注意事项
 
-- 如果在香橙派开发板上运行, 请按照开发板代码仓的[环境搭建](https://github.com/mindspore-lab/orange-pi-mindspore/tree/master/Online#%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90)搭建好环境后再运行案例。
+该案例可在香橙派开发板与910B上运行
 
-- 如果在910B上运行, 环境搭建可参考我们MindSpeed课程代码仓的[Dockerfiles](https://github.com/mindspore-lab/MindSpore-Compatible-Distributed-Training-Principles-and-Practices/tree/dev/dockerfiles), 或使用华为云ModelArts上的环境。
+- 如果在香橙派开发板上运行, 请按照开发板代码仓的[环境搭建](https://github.com/mindspore-lab/orange-pi-mindspore/tree/dev/courses/02_mingpt)搭建好环境后再运行案例。
 
-
-
-
-
+- 如果在910B上运行, 环境搭建可参考[Dockerfiles](https://github.com/mindspore-lab/step_into_llm/tree/dev/03.MindSpore_Compatible_Training_Course/dockerfiles), 或使用华为云[ModelArts](https://console.huaweicloud.com/modelarts/?region=cn-southwest-2#/dev-container/create)上的环境。

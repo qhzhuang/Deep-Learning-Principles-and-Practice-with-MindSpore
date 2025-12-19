@@ -3,11 +3,11 @@
   <p><a href="./README_ZH.md">查看中文</a></p>
 </div>
 
-This course is centered on "AI for Beginners with Zero Foundation" ,combining theory and practice to guide learners from foundational theory to model training and deployment. It helps students systematically master the core technologies and practical applications of artificial intelligence. Upon completing the series, you will be capable of independently developing and applying lightweight AI models, gaining a comprehensive understanding of the entire knowledge chain from algorithm theory to application development.
+This course is centered on "AI for Beginners with Zero Foundation", combining theory and practice to guide learners from foundational theory to model training and deployment. It helps students systematically master the core technologies and practical applications of artificial intelligence. Upon completing the series, you will be capable of independently developing and applying lightweight AI models, gaining a comprehensive understanding of the entire knowledge chain from algorithm theory to application development.
 
 ## 📢 News
 
-- 2025-12-20 「Course Update」: Added principles of peep learning and quick start with MindSpore and practice of the entire process of minGPT development, training, and predicting, including complete videos, courseware, and code examples. 
+- 2025-12-20 「Course Update」: Added principles of deep learning, MindSpore quick start and practice of the entire process of minGPT development, training, and predicting, including complete videos, courseware and code examples. 
 
 ## Prerequisites
 
@@ -15,7 +15,7 @@ Before studying this course, you need to master:
 
 - Python Fundamentals
 - Linux Command Fundamentals
-- Jupyter Fundamentals
+- Jupyter Notebook Fundamentals
 
 
 ## Environment Setup
@@ -34,8 +34,8 @@ The main environmental information is as follows:
 
 | No. | Lesson                                                                                                            | Description                                                                                           | Learning Resource                                              |
 |:---|:------------------------------------|:------------------------------------------------------------------------------------------------------|:--------------------------------------------------|
-| 1  | Principles of Deep Learning and Quick Start with MindSpore | Introduce the core concepts and principles of deep learning, and quickly implement a simple deep learning model through MindSpore's API                 | [PPT](./Chapter1) · [Video](Link) · [Code](https://gitee.com/mindspore/docs/blob/r2.7.1/tutorials/source_zh_cn/beginner/quick_start.ipynb) |
-| 2  |  Practice of the entire process of minGPT development, training, and predicting  | Taking the minGPT project as an example, introduce the structure of Transformer network, mixed precision training, and language model decoding principle | [PPT](./Chapter2) · [Video](Link) · [Code](https://github.com/mindspore-lab/orange-pi-mindspore/tree/master/Online/training/02-minGPT) |
+| 1  | Principles of Deep Learning and Quick Start with MindSpore | Introduce the core concepts and principles of deep learning, and quickly implement a simple deep learning model through MindSpore's API                 | [PPT](./Chapter1) · [Video](https://www.hiascend.com/zh/developer/courses/detail/1938153539479527425)(Chapter 1-2) · [Guide](https://www.mindspore.cn/tutorials/zh-CN/r2.7.1/beginner/quick_start.html)  ·  [Code](https://gitee.com/mindspore/docs/blob/r2.7.1/tutorials/source_zh_cn/beginner/quick_start.ipynb)  |
+| 2  |  Practice of the entire process of minGPT development, training, and predicting  | Taking the minGPT project as an example, introduce the structure of Transformer network, mixed precision training, and language model decoding principle | [PPT](./Chapter2) · [Video](https://www.hiascend.com/zh/developer/courses/detail/1938153539479527425)(Chapter 6-10) · [Code](https://github.com/mindspore-lab/orange-pi-mindspore/tree/dev/courses/02_mingpt) |
 
 
 ## Version Management

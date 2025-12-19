@@ -1,5 +1,5 @@
 <div align=center>
-  <h1>深度学习原理和实践</h1>
+  <h1>深度学习原理和实践(基于MindSpore)</h1>
   <p><a href="./README.md">View English</a></p>
 </div>
 
@@ -15,7 +15,7 @@
 
 - Python基础
 - Linux命令基础
-- Jupyter基础
+- Jupyter Notebook基础
 
 ## 环境准备
 
@@ -28,13 +28,12 @@
 | [MindSpore](https://www.mindspore.cn/install)                 | 2.7.1 |
 
 
-
 ## 课程内容
 
 | 序号 | 课节                            | 简介                                   | 课程资源                                              |
 |:---|:------------------------------|:-------------------------------------|:--------------------------------------------------|
-| 1  | 深度学习原理与MindSpore快速入门 | 介绍深度学习的核心概念与原理, 通过MindSpore的API来快速实现一个简单的深度学习模型                 | [PPT](./Chapter1) · [视频](跳转链接) · [代码](https://gitee.com/mindspore/docs/blob/r2.7.1/tutorials/source_zh_cn/beginner/quick_start.ipynb) |
-| 2  |  minGPT开发训练推理全流程实践  | 以minGPT项目为例, 介绍Transformer网络的结构、混合精度训练、语言模型解码原理 | [PPT](./Chapter2) · [视频](跳转链接) · [代码](https://github.com/mindspore-lab/orange-pi-mindspore/tree/master/Online/training/02-minGPT) |
+| 1  | 深度学习原理与MindSpore快速入门 | 介绍深度学习的核心概念与原理, 通过MindSpore的API来快速实现一个简单的深度学习模型                 | [PPT](./Chapter1) · [视频](https://www.hiascend.com/zh/developer/courses/detail/1938153539479527425)(第1-2章) · [官网指导](https://www.mindspore.cn/tutorials/zh-CN/r2.7.1/beginner/quick_start.html)  ·  [代码](https://gitee.com/mindspore/docs/blob/r2.7.1/tutorials/source_zh_cn/beginner/quick_start.ipynb) |
+| 2  |  minGPT开发训练推理全流程实践  | 以minGPT项目为例, 介绍Transformer网络的结构、混合精度训练、语言模型解码原理 | [PPT](./Chapter2) · [视频](https://www.hiascend.com/zh/developer/courses/detail/1938153539479527425)(第6-10章) · [代码](https://github.com/mindspore-lab/orange-pi-mindspore/tree/dev/courses/02_mingpt) |
 
 ## 版本维护
 
@@ -43,6 +42,7 @@
 | 版本名  | Python | MindSpore |
 | :----- | :----- |:------ |
 | master | \>=3.9 | 2.7.1     |
+
 
 
 ## 常见问题（FAQ）
